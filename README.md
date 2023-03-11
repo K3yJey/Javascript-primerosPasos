@@ -1,7 +1,7 @@
 # Javascript - Primeros Pasos
 
 ## Sobre el repositorio
-Carpeta contenedora del curso "Javascript: primeros pasos con el lenguaje", en la cual se encontrarán todos los archivos del proceso de formación del estudiante.
+Carpeta contenedora del curso "Javascript: primeros pasos con el lenguaje", en la cual se encontrarán archivos referentes a Ciclos - Listas - Operadores - Condicionales - Flujos - Variables - Datos.
 
 ## ✔️ [El respositorio aquí](https://github.com/K3yJey/Javascript-primerosPasos.git)
 
