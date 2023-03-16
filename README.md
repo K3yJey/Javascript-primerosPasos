@@ -9,7 +9,7 @@ Carpeta contenedora del curso "Javascript: primeros pasos con el lenguaje", en l
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📌 Comentarios adicionales 
-* Curso culminado.
+Curso culminado.
 
 ## 📂 División/Organización de la carpeta
 * Carpeta "ciclos": Archivos js con teoría y ejemplos sobre While - Break - Debugger - For.
