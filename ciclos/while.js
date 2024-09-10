@@ -5,12 +5,12 @@ let i = 0;
 
 //While: 0 a más veces
 while (precioCiudad[i] > presupuestoDisponible) {
-    i++;
+  i++;
 }
 console.log(`Puedes comprar pasaje para ${ciudadesLista[i]}`);
 
 //Do-While: 1 a más veces
 do {
-    i++;
+  i++;
 } while (precioCiudad[i] > presupuestoDisponible);
 console.log(`Puedes comprar pasaje para ${ciudadesLista[i]}`);

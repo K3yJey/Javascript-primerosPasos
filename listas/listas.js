@@ -40,7 +40,7 @@ paisesLista.shift();
 //console.log(`Posición 01: ${ciudadesLista[1]}`);
 //console.log(`Posición 00: ${paisesLista[0]}`);
 
-//Filtrar elementos del Array 
+//Filtrar elementos del Array
 //console.log(ciudadesLista.filter((e) => e == "Lima"));
 
 //Añadir un caracter entre elementos

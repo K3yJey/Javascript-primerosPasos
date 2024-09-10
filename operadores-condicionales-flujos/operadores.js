@@ -28,11 +28,11 @@ let edadPasajero = 19;
 
 //If encadenados
 if (ciudadesLista.indexOf(ciudadDestino) >= 0) {
-    if (edadPasajero >= 18) {
-        console.log(`Ciudad disponible para viajar`);
-    } else {
-        console.log(`Ciudad no disponible para viajar`);
-    }
-} else {
+  if (edadPasajero >= 18) {
+    console.log(`Ciudad disponible para viajar`);
+  } else {
     console.log(`Ciudad no disponible para viajar`);
+  }
+} else {
+  console.log(`Ciudad no disponible para viajar`);
 }

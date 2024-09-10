@@ -8,15 +8,12 @@ let edad = 22;
 var nombre = "Kevin";
 
 //Ejemplo
-function funcionEjemplo () {
-    let edad1 = 22;
-    var edad2 = 21;
+function funcionEjemplo() {
+  let edad1 = 22;
+  var edad2 = 21;
 
-    console.log(edad1);
-    console.log(edad2);
+  console.log(edad1);
+  console.log(edad2);
 }
 
 funcionEjemplo();
-
-console.log(edad1);
-console.log(edad2);

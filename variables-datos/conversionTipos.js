@@ -37,4 +37,3 @@ let nombre = "Kevin";
 let apellido = "Madrid";
 
 console.log(nombre + " " + apellido);
-
